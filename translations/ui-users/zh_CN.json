@@ -800,7 +800,7 @@
     "payments.nodata": "There are no Fee/fine: Payment methods",
     "details.button.new": "New staff info",
     "accounts.cancelError": "Cancelled as Error",
-    "accounts.comment.staffInfo": "New staff info",
+    "accounts.comment.staffInfo": "Staff info only",
     "blocks.additionalReasons": "View block details to see additional reasons for block...",
     "accounts.status.partially": "partially",
     "accounts.status.fully": "fully",
